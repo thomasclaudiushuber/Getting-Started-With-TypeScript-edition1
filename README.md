@@ -1,4 +1,4 @@
-# Getting Started with TypeScript
+# Getting Started with TypeScript - 1st edition
 
 Hi there! 
 
