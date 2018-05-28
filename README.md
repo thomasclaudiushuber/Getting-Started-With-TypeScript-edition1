@@ -2,7 +2,11 @@
 
 Hi there! 
 
-This repository contains the samples of the book **Getting Started with TypeScript**. 
+This repository contains the samples of the **1st edition** of the book **Getting Started with TypeScript**. 
+
+You can find the samples for the latest edition here:
+https://github.com/thomasclaudiushuber/Getting-Started-with-TypeScript
+
 
 The folders of this repository are matching the chapter-numbers of the book:
 
